@@ -1,0 +1,9 @@
+MAIL_RECEIVER: "..."
+MAIL_SENDER:
+  ADDRESS: "..."
+  ALIAS: "DanBot"
+  PASSWORD: "..."
+SONA:
+  USERNAME: "..."
+  PASSWORD: "..."
+NOTE: "rename this to config.yaml"
